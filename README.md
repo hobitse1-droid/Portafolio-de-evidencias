@@ -4,7 +4,7 @@
 
 **Materia:** Fundamentos de Álgebra
 
-**Alumno:** Patricio Medina Batun
+**Alumno:** Leonardo Torres Tellez
 
 **Grupo:** 1B
 
@@ -16,7 +16,7 @@
 
 ## Descripción del Proyecto
 
-Este repositorio aloja una suite de herramientas matemáticas interactivas desarrolladas con tecnologías web. El objetivo principal es facilitar la comprensión y el cálculo de diversos temas algebraicos mediante interfaces gráficas intuitivas y detalladas.
+En este repositorio adjuntamos las multiples calculadoras de actividades que hicimos a lo largo del cuatrimestre
 
 ## Identidad Visual 
 
